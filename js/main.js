@@ -507,6 +507,60 @@ function drawCharts() {
 
 }
 
+// function drawCharts() {
+//     $('#tags').removeClass('hidden');
+//     var tagTable = [];
+//     for (var tag in tags) {
+//         tagTable.push([tag + ": " + tags[tag], tags[tag]]);
+//     }
+//     tagTable.sort(function (a, b) {
+//         return b[1] - a[1];
+//     });
+
+//     tags = new google.visualization.DataTable();
+//     tags.addColumn('string', 'Tag');
+//     tags.addColumn('number', 'solved');
+//     tags.addRows(tagTable);
+
+//     var tagOptions = {
+//         width: Math.max(600, $('#tags').width()),
+//         height: Math.max(600, $('#tags').width()) * 0.75,
+//         chartArea: { width: '80%', height: '100%' },
+//         title: 'Tags of ' + handle,
+//         pieSliceText: 'none',
+//         legend: {
+//             position: 'right',
+//             alignment: 'center',
+//             textStyle: {
+//                 fontSize: 12,
+//                 fontName: 'Roboto',
+//                 color: '#e0e0e0',  // Light color for legend text
+//             }
+//         },
+//         pieHole: 0.5,
+//         tooltip: {
+//             text: 'percentage',
+//             textStyle: {
+//                 color: '#e0e0e0',  // Light text for tooltips
+//             },
+//             backgroundColor: '#333333',  // Dark background for tooltips
+//         },
+//         fontName: 'Roboto',
+//         titleTextStyle: {
+//             color: '#e0e0e0',  // Light color for title text
+//         },
+//         backgroundColor: '#181818',  // Dark background for the chart
+//         chartArea: {
+//             backgroundColor: '#181818',  // Dark background for chart area
+//         },
+//         colors: colors.slice(0, Math.min(colors.length, tags.getNumberOfRows())),  // Custom colors for pie slices
+//     };
+
+//     var tagChart = new google.visualization.PieChart(document.getElementById('tags'));
+//     tagChart.draw(tags, tagOptions);
+// }
+
+
 //-------------------------------------------------Jquery---------------------------------------------------------
 
 $(document).ready(function (){
