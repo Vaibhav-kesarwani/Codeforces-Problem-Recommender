@@ -22,21 +22,22 @@ The problems that are unsolved by the user, and also satisfy the above constrain
 1. Open the <a href = "https://codeforces-problem-recommender.vercel.app/">website</a>, and enter your codeforces user handle.
 <div align = "center">
   <kbd>
-    <img src = "https://user-images.githubusercontent.com/39689610/117656135-9613a980-b1b5-11eb-8c2e-91f8be847113.png">
+    <img src = "https://github.com/user-attachments/assets/44ae5de0-5dcc-4c0a-b579-a3903d135b2d">
   </kbd>
  </div>
  <br>
+
  
  2. Click the **Go** button, or press _Enter_. You will see the **user statistics**, **recommended problems** in all 3 categories, and a list of **recent contests** that the user has participated in on Codeforces.
 <div align = "center">
   <kbd>
-    <img src = "https://user-images.githubusercontent.com/39689610/117656417-f3a7f600-b1b5-11eb-881c-f55362ae1ab2.png">
+    <img src = "https://github.com/user-attachments/assets/a9732758-a92f-43c7-abbb-59e2a9998e4d">
   </kbd>
  </div>
  <br>
  <div align = "center">
   <kbd>
-    <img src = "https://user-images.githubusercontent.com/39689610/117656619-34a00a80-b1b6-11eb-96fc-36cd8abe24fe.png">
+    <img src = "https://github.com/user-attachments/assets/3f4aaa54-b7a4-4eb0-952d-b9f98a3a4027">
   </kbd>
  </div>
 
