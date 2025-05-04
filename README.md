@@ -41,4 +41,4 @@ The problems that are unsolved by the user, and also satisfy the above constrain
 
   
 # Credits
-All the credit goes to (Vaibhav Kesarwani)[https://vaibhavkesarwani.vercel.app/].
+All the credit goes to [Vaibhav Kesarwani](https://vaibhavkesarwani.vercel.app/).
