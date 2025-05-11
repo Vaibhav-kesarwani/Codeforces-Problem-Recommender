@@ -23,5 +23,11 @@
     "@types/google.visualization": "^0.0.74",
     "@types/jquery": "^3.5.32",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "google-charts": "^2.0.0",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
   }
 }
