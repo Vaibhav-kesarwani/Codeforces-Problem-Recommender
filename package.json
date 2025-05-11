@@ -1,0 +1,26 @@
+{
+  "name": "codeforces-problem-recommender",
+  "version": "1.0.0",
+  "description": "<a href = \"https://codeforces.com/\">Codeforces</a> is a very popular web platform that hosts competitive programming contests. It also has a multitude of problems of varying difficulty levels for all types of programmers, be it a newbie or an expert.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhav-kesarwani/Codeforces-Problem-Recommender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vaibhav-kesarwani/Codeforces-Problem-Recommender/issues"
+  },
+  "homepage": "https://github.com/Vaibhav-kesarwani/Codeforces-Problem-Recommender#readme",
+  "devDependencies": {
+    "@types/google.visualization": "^0.0.74",
+    "@types/jquery": "^3.5.32",
+    "typescript": "^5.8.3"
+  }
+}
