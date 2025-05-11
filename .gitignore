@@ -1,0 +1,18 @@
+node_modules
+*.DS_STORE
+*.log
+*.env
+*.env.local
+*.env.development
+*.env.test              
+*.env.production
+*.env.development.local
+*.env.test.local            
+*.env.production.local
+*.local      
+
+# Ignore node_modules and build/dist folder
+/node_modules/
+/dist/
+/build/
+/.next/
