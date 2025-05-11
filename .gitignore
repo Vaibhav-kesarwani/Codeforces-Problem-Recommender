@@ -16,3 +16,4 @@ node_modules
 /dist/
 /build/
 /.next/
+/public/dist
